@@ -1,4 +1,4 @@
-# Infrastructure-Web-avec-terraform_K-lianSCHAFFNER
+# Infrastructure-Web-avec-terraform
 
 
 Ce projet utilise Terraform pour déployer une infrastructure AWS. Il comprend un groupe d'auto-scaling, un équilibreur de charge d'application, des groupes de sécurité, un bucket S3 et bien d'autres ressources.
